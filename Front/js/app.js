@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/usuarios";
+const API_URL = "https://prac-crud-hus.onrender.com/api/usuarios";
 
 const form = document.getElementById("usuarioForm");
 const tbody = document.getElementById("usuariosBody");
